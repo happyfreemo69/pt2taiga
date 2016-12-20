@@ -1,0 +1,11 @@
+{
+    "name": "pivo2taiga",
+    "version": "1.0.0",
+    "description": "pivo 2 taiga",
+    "author": "mpech",
+    "dependencies": {
+        "optimist":"0.6.1",
+    },
+    "private":true,
+    "license": "MIT"
+}
